@@ -5,3 +5,7 @@ Fork from
 https://github.com/google/google-api-java-client
 
 Include all transitive dependencies excluding commons-logging
+
+```
+mvn clean package
+```
